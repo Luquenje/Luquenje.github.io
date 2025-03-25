@@ -689,6 +689,14 @@ article { display: none; }
 }
 
 /*SKILLS*/
+.skill-1 {
+    color: var(--white2);
+    text-transform: capitalize;
+    padding: 5px 10px;
+    margin: 5px 10px 5px 0px;
+    background: var(--onyx);
+    display: -webkit-inline-box;
+}
 
 .skills-title { margin-bottom: 20px; }
 
@@ -1461,4 +1469,6 @@ textarea.form-input {
     .social-list { justify-content: center; }
 
     .timeline-text { max-width: 700px; }
+
+    
 }
